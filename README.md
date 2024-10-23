@@ -5,13 +5,13 @@ TradeNet is a cutting-edge Forex trading platform designed for both beginner and
 
 ## Features
 
-- **Real-Time Forex Market Data**: Get up-to-date bid/ask prices and market trends for all major currency pairs.
+1.**Real-Time Forex Market Data**: Get up-to-date bid/ask prices and market trends for all major currency pairs.
 - **Trade Execution**: Execute buy and sell orders quickly and efficiently with minimal latency.
-- **Currency Pairs**: Trade all major and minor currency pairs (e.g., USD/EUR, GBP/USD, JPY/CAD).
-- **Account Management**: Manage trading accounts, view balances, and track transaction history.
-- **Historical Data**: Access historical data to analyze past market performance and trends.
-- **Advanced Charting Tools**: Use technical indicators, chart patterns, and drawing tools for in-depth market analysis.
-- **Notifications & Alerts**: Set price alerts and receive notifications for key market movements.
+2. **Currency Pairs**: Trade all major and minor currency pairs (e.g., USD/EUR, GBP/USD, JPY/CAD).
+3. **Account Management**: Manage trading accounts, view balances, and track transaction history.
+4. **Historical Data**: Access historical data to analyze past market performance and trends.
+5. **Advanced Charting Tools**: Use technical indicators, chart patterns, and drawing tools for in-depth market analysis.
+6.**Notifications & Alerts**: Set price alerts and receive notifications for key market movements.
 
 ## Installation
 
